@@ -1,2 +1,2 @@
-def ask_student():
+def get_student():
     return input("Introduce tu nombre: ")

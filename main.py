@@ -1,6 +1,6 @@
-from student import ask_student
+from student import get_student
 
 if __name__ == "__main__":
-    name = ask_student()
+    name = get_student()
     print("Estudiante:", name)
 
